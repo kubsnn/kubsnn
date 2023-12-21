@@ -14,10 +14,6 @@
 - 🛢️ SQL, PL/SQL, MongoDB
 - 🐳 Docker
 - 🤖 GitHub Actions
-  
-#### Achievements
-- 🏆 Winner of BEST Coding Marathon in Gdańsk (12/13 January 2023)
-- 🏆 Laureate of ConsultIT Hackathon (May 2022)
 
 #### Get in Touch
 - 💬 [LinkedIn](https://www.linkedin.com/in/jakub-aszyk-16080522a/)
