@@ -7,8 +7,8 @@
 - 🌐 Working on a variety of projects, from a CUDA-accelerated ML model library to an E2EE TCP chat in C++
 
 #### Tech Stack
-- 🚀 C++: STL, Ranges, CMake, Visual Studio 2022, GOOGLE TEST, CUDA
-- 🌐 C#: ASP.NET, EntityFramework, WinForms
+- 🚀 C++: STL, Ranges, CMake, Visual Studio 2022, Google Test, CUDA
+- 🌐 C#: ASP.NET Core Web API, EntityFramework, WinForms
 - ☕ Java: Spring Boot
 - 🐍 Python
 - 🛢️ SQL, PL/SQL, MongoDB
