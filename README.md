@@ -7,7 +7,7 @@
 - 🌐 Working on a variety of projects, from a CUDA-accelerated ML model library to an E2EE TCP chat in C++
 
 #### Tech Stack
-- 🚀 C++: STL, Ranges, CMake, Visual Studio 2022, Google Test, CUDA
+- 🚀 C++: STL, Boost, CMake, Visual Studio 2022, Google Test, CUDA
 - 🌐 C#: ASP.NET Core Web API, EntityFramework, WinForms
 - ☕ Java: Spring Boot
 - 🐍 Python
@@ -16,6 +16,6 @@
 - 🤖 GitHub Actions
 
 #### Get in Touch
-- 💬 [LinkedIn](https://www.linkedin.com/in/jakub-aszyk-16080522a/)
+- 💬 [LinkedIn](https://www.linkedin.com/in/jakub-aszyk/)
 
 Feel free to explore my repositories and let's connect! 🚀
